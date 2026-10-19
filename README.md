@@ -3,7 +3,7 @@
 Final-year Cybersecurity Engineering student @ EMSI Marrakech · BSc Cybersecurity, FST Marrakech (2025)
 
 I break Android apps, hunt threats, and build the tooling around both.
-
+younesslahdiri01@gmail.com
 ## Flagship projects
 
 - [Android-Attack-Surface-Mapper](https://github.com/youness-lahdiri01/Android-Attack-Surface-Mapper) — static analysis for Android attack surface · 10 OWASP MSTG rules, CVSS v3.1, F1 0.947 · DOI 10.5281/zenodo.20090644 · paper under submission
